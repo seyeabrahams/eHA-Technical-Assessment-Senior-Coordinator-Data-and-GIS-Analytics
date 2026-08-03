@@ -166,7 +166,7 @@ Outputs:
 
 # Software Requirements
 
-* Python 3.12 (recommended)
+* Python 3.12
 * Git
 * GDAL-compatible GeoPandas installation
 
